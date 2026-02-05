@@ -1,7 +1,0 @@
-requests
-pydantic
-pydantic-settings
-python-dotenv
-typer[all]
-rich
-geopy
