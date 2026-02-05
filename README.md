@@ -17,7 +17,7 @@ To learn more about me, visit my socials:
   [Homelab](https://github.com/HomseyFT/Docker-Stack)
 - **Image Compressor**
   Custom image compressor, currently only works on black and white images. Uses JPG-like compression (discrete cosine transform, quantization matrix, Huffman encoding).
-  (Image Compressor)[https://github.com/HomseyFT/Image-Compression-Project]
+  [Image Compressor](https://github.com/HomseyFT/Image-Compression-Project)
 # GitHub Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HomseyFT&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HomseyFT&layout=compact&langs_count=8)
